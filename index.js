@@ -39,9 +39,10 @@ let data = [
   },
   {
     project_image: 'images/projects/where-in-the-world.png',
-    project_name: 'Where in the World',
-    project_live: 'https://soumya495.github.io/Where-in-the-world/',
-    project_repo: 'https://github.com/soumya495/Where-in-the-world',
+    project_name: 'Rest Coutries API',
+    project_live: 'https://soumya-rest-countries-api.netlify.app/',
+    project_repo: 'https://github.com/soumya495/rest-countries-api',
+    react: true,
   },
   {
     project_image: 'images/projects/ig-ui.png',
