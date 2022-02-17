@@ -18,6 +18,13 @@ window.onload = function () {
 
 let data = [
   {
+    project_image: 'images/projects/comments-section.png',
+    project_name: 'FullStack CRUD Website',
+    project_live: 'https://interactive-comments-sec-1f663.firebaseapp.com/',
+    project_repo: 'https://github.com/soumya495/interactive-comments-section',
+    react: true,
+  },
+  {
     project_image: 'images/projects/todo-app.png',
     project_name: 'Todo App',
     project_live: 'https://soumya495.github.io/todo-app/',
@@ -67,12 +74,6 @@ let data = [
     project_name: 'Splitter',
     project_live: 'https://soumya495.github.io/splitter/',
     project_repo: 'https://github.com/soumya495/splitter',
-  },
-  {
-    project_image: 'images/projects/guess-my-number.png',
-    project_name: 'Guess my Number',
-    project_live: 'https://soumya495.github.io/guess-my-number/',
-    project_repo: 'https://github.com/soumya495/guess-my-number',
   },
 ]
 
