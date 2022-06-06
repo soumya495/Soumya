@@ -25,6 +25,14 @@ let data = [
     react: true,
   },
   {
+    project_image: 'images/projects/url-shorten.png',
+    project_name: 'URL Shortening Website',
+    project_live: 'https://url-shortening-api-landing-page-one.vercel.app/',
+    project_repo:
+      'https://github.com/soumya495/url-shortening-api-landing-page',
+    next: true,
+  },
+  {
     project_image: 'images/projects/todo-app.png',
     project_name: 'Todo App',
     project_live: 'https://soumya495.github.io/todo-app/',
@@ -86,6 +94,11 @@ data.forEach((d) => {
   ${
     d.react
       ? `<div class="react-label"><img src="images/icons/react-js.svg" alt="react-icon"></img></div>`
+      : ''
+  }
+  ${
+    d.next
+      ? `<div class="react-label"><img src="images/icons/next.svg" alt="react-icon"></img></div>`
       : ''
   }
   <div class="project-img">
