@@ -33,6 +33,13 @@ let data = [
     next: true,
   },
   {
+    project_image: 'images/projects/online-phonebook.png',
+    project_name: 'Online Phonebook',
+    project_live: 'https://online-phone-book.netlify.app/',
+    project_repo: 'https://github.com/soumya495/online-phonebook',
+    react: true,
+  },
+  {
     project_image: 'images/projects/todo-app.png',
     project_name: 'Todo App',
     project_live: 'https://soumya495.github.io/todo-app/',
@@ -59,24 +66,24 @@ let data = [
     project_repo: 'https://github.com/soumya495/rest-countries-api',
     react: true,
   },
-  {
-    project_image: 'images/projects/ig-ui.png',
-    project_name: 'Instagram UI',
-    project_live: 'https://soumya495.github.io/instagram-clone/#',
-    project_repo: 'https://github.com/soumya495/instagram-clone',
-  },
+  // {
+  //   project_image: 'images/projects/ig-ui.png',
+  //   project_name: 'Instagram UI',
+  //   project_live: 'https://soumya495.github.io/instagram-clone/#',
+  //   project_repo: 'https://github.com/soumya495/instagram-clone',
+  // },
   {
     project_image: 'images/projects/portfolio.png',
     project_name: 'Portfolio',
     project_live: 'https://soumya495.github.io/Soumya-Banerjee/',
     project_repo: 'https://github.com/soumya495/Soumya-Banerjee',
   },
-  {
-    project_image: 'images/projects/pick-game.png',
-    project_name: 'Pick Game',
-    project_live: 'https://soumya495.github.io/pick-game/',
-    project_repo: 'https://github.com/soumya495/pick-game',
-  },
+  // {
+  //   project_image: 'images/projects/pick-game.png',
+  //   project_name: 'Pick Game',
+  //   project_live: 'https://soumya495.github.io/pick-game/',
+  //   project_repo: 'https://github.com/soumya495/pick-game',
+  // },
   {
     project_image: 'images/projects/splitter.png',
     project_name: 'Splitter',
